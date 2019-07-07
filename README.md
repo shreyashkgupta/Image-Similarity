@@ -1,2 +1,2 @@
-# Image-Similarity
+# Image Similarity
 Finding similar images
